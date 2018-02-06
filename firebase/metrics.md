@@ -18,7 +18,9 @@ To have a better representation of your DAUs and WAUs over any selected range, c
 * 30 Day Active Users (Filter it down by User Property = New / Returning User)
 
 Finally you can calculate the DAU-to-MAU ratio as: 1DAU / 30MAU.
-* "It is a ""Stickiness"" user engagement mentric. and is generally calculated as the ratio of Daily Active Users to Monthly Active Users. A DAU/MAU ratio of 50% would mean that the average user of your app is using it 15 out of 30 days that month."
+* "It is a ""Stickiness"" user engagement mentric. and is generally calculated as the ratio of Daily Active Users to Monthly Active Users. A DAU/MAU ratio of 50% would mean that the average user of your app is using it 15 out of 30 days that month"
+[(Source)](http://blog.popcornmetrics.com/5-user-engagement-metrics-for-growth/).
+
 
 Consider Also: 
 * User Sessions and Firebase ID tokens...https://firebase.google.com/docs/auth/admin/manage-sessions
